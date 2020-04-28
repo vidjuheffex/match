@@ -4,6 +4,6 @@
 (akku-package ("match" "1.0.0")
               (synopsis "Pattern matching library (match) for r6rs")
               (authors "Dan Friedman, Erik Hilsdale, and Kent Dybvig")
-              (license "Apache-2")
+              (license "Apache-2.0")
               (depends ("chez-srfi" ">=0.0.0-akku <1.0.0"))
               )
