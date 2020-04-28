@@ -1,0 +1,37 @@
+BODY {background-color: #FFFFFF}
+A:link {color:blue; text-decoration:none}
+A:active {color:blue; text-decoration:none}
+A:visited {color:maroon; text-decoration:none}
+A:hover {color:white; text-decoration:none; background:blue}
+A.ref:link {color:blue; text-decoration:underline}
+A.ref:active {color:blue; text-decoration:underline}
+A.ref:visited {color:blue; text-decoration:underline}
+A.ref:hover {color:white; text-decoration:underline; background:blue}
+A.plainlink:link {color:blue; text-decoration:none}
+A.plainlink:active {color:blue; text-decoration:none}
+A.plainlink:visited {color:blue; text-decoration:none}
+A.plainlink:hover {color:white; text-decoration:none; background:blue}
+
+table.indent {margin-left: 20px}
+
+/*
+     FILE ARCHIVED ON 11:59:52 Jul 19, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:11:49 Apr 28, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  esindex: 0.017
+  CDXLines.iter: 12.257 (3)
+  exclusion.robots: 0.175
+  exclusion.robots.policy: 0.162
+  LoadShardBlock: 66.076 (3)
+  RedisCDXSource: 10.35
+  captures_list: 91.866
+  PetaboxLoader3.datanode: 148.078 (5)
+  PetaboxLoader3.resolve: 190.858 (3)
+  load_resource: 329.939
+*/
